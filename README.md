@@ -24,8 +24,8 @@ Create a new conda environment by running the following command.
 conda create --name myenv python=3.10
 
 
-### Clone Retinal OCT repository
-Clone the Retinal OCT repository by running the following command.
+### Clone repository
+Clone the repository by running the following command.
 
 git clone git@github.com:(your profile)/Airbnb_SQL_EDA.git
 
