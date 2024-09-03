@@ -5,7 +5,7 @@ title: Airbnb Data Analysis
 
 # Airbnb Data Analysis
 
-![airbnb-678x381](https://hackmd.io/_uploads/Bkd-gqWoC.png)
+![airbnb](https://www.spinxdigital.com/app/uploads/2022/11/image-airbnb.jpg)
 
 
 This project focuses on performing Exploratory Data Analysis (EDA) on Airbnb dataset of city of Austin, Texas using SQL. The goal is to gain insights into the data, identify patterns, and answer key questions that could help in understanding the trends and behaviors within the Airbnb market.
@@ -31,9 +31,6 @@ git clone git@github.com:(your profile)/Airbnb_SQL_EDA.git
 
 cd airbnb_sql_eda
 
-![image](https://hackmd.io/_uploads/HJqZS5biC.png)
-
-
 
 ### Usage
 - Open your SQL environment and connect to the database containing the Airbnb dataset.
@@ -41,7 +38,7 @@ cd airbnb_sql_eda
 - Analyze the results using the visualizations or summary statistics generated.
 
 ### Dashboard
-![image](https://hackmd.io/_uploads/S1lC2Hq-sC.png)
+[Dashboard](https://public.tableau.com/app/profile/hyung.cho/viz/Airbnb_Austin/Dashboard1)
 
 
 
